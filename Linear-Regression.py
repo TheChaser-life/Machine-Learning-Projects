@@ -1,3 +1,5 @@
+# dự đoán giá nhà dựa trên diện tích
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
